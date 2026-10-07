@@ -11,7 +11,7 @@
 |---|---|
 | Turma | 2DTATBB |
 | Grupo | Grupo 54 |
-| Data de entrega | <!-- PREENCHER: DD/MM/AAAA --> |
+| Data de entrega | 07/10/2026|
 
 ### Integrantes
 
@@ -26,7 +26,7 @@ Estes três links são **obrigatórios** e devem ser idênticos aos do PDF de su
 
 | Item | Link |
 |---|---|
-| Repositório | <!-- PREENCHER: URL pública do GitHub --> |
+| Repositório | https://github.com/luissilvferr/tech_challenge_fase2_grupo54/|
 | Vídeo executivo (≤ 5 min) | https://docs.google.com/videos/d/1jLkND3QPQ6_YL2PUOTeS25m2UVxrUqGba3xZe14AeZU/play?usp=sharing |
 | Apresentação | https://drive.google.com/file/d/1Ac1WnachxKIqwsohYy3xYa92v-EZSeI8/view?usp=sharing|
 
@@ -90,8 +90,8 @@ Descrição das variáveis:
 ## 4. Como reproduzir
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/luissilvferr/tech_challenge_fase2_grupo54
+cd tech_challenge_fase2_grupo54
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
