@@ -17,7 +17,7 @@
 
 | Nome completo | RM | E-mail |
 |---|---|---|
-| LUIS ENRIQUE CRUZ SILVA FERREIRA | RM377788 | ferrsilv.luis@gmail.com |
+| LUIS ENRIQUE CRUZ SILVA FERREIRA | RM377788 | rm377788@fiap.com.br|
 ---
 
 ## 2. Links da entrega
