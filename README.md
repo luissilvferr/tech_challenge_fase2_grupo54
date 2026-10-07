@@ -50,7 +50,7 @@ Optou-se por seguir o padrão consolidado na análise de risco de crédito e ado
 
 | Campo | Valor |
 |---|---|
-| Fonte | https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction |
+| Fonte | https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view|
 | Linhas × colunas | application_record.csv: 438557 x 18; credit_record.csv: 1048575 x 3 |
 | Período / versão | <!-- PREENCHER --> |
 | Licença de uso | <!-- PREENCHER --> |
